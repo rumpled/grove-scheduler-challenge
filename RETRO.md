@@ -39,3 +39,5 @@ To provide meaningful contextual display without parsing text.  Brighter = close
 * Realtime updates of color or some sort of bar-scale countdown to when an event is actually going to happen
 * Polling for updates to source data
 * Change highlighting
+* Better error handling in the event of data source not being available
+* Rendering tests
